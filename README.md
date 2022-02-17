@@ -1,2 +1,2 @@
-# Azraude.github.io
- NFT Challenge
+# NFT_Challenge
+Challenge for FrontEnd Mentor
